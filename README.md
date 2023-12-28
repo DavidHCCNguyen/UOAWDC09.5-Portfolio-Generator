@@ -1,4 +1,4 @@
-# Module 09 Mini-Project: Portfolio Generator
+# 09 Mini-Project: Portfolio Generator
 
 ## Instructed Notes
 
